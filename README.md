@@ -1,4 +1,4 @@
 Team Members:
-Mazia Saleem
-Sang Le
+Mazia Saleem,
+Sang Le,
 Tyler Jensen
